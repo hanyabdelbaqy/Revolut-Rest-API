@@ -1,0 +1,7 @@
+0:0:0:0:0:0:0:1 - - [15/Jan/2019:09:36:34 +0200] "GET /Revolut/rest/accounts HTTP/1.1" 200 188 http-bio-8080-exec-1 423
+0:0:0:0:0:0:0:1 - - [15/Jan/2019:09:37:53 +0200] "GET /Revolut/rest/accounts HTTP/1.1" 200 188 http-bio-8080-exec-1 288
+0:0:0:0:0:0:0:1 - - [15/Jan/2019:09:38:01 +0200] "POST /Revolut/rest/accounts/getAcctByNo HTTP/1.1" 200 67 http-bio-8080-exec-2 70
+0:0:0:0:0:0:0:1 - - [15/Jan/2019:09:38:19 +0200] "POST /Revolut/rest/accounts/transaction HTTP/1.1" 400 49 http-bio-8080-exec-3 140
+0:0:0:0:0:0:0:1 - - [15/Jan/2019:09:48:51 +0200] "POST /Revolut/rest/accounts/transaction HTTP/1.1" 400 49 http-bio-8080-exec-1 348
+0:0:0:0:0:0:0:1 - - [15/Jan/2019:09:48:55 +0200] "GET /Revolut/rest/accounts HTTP/1.1" 200 188 http-bio-8080-exec-2 62
+0:0:0:0:0:0:0:1 - - [15/Jan/2019:09:49:30 +0200] "GET /Revolut/rest/accounts HTTP/1.1" 200 188 http-bio-8080-exec-1 377
